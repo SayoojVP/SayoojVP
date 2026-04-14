@@ -1,8 +1,6 @@
 ## About Me
 
-Hi, I'm **Sayooj VP** — a Full stack developer and UI designer.
-
-I’m driven by the idea of combining tech and business to build solutions that are both smart and impactful. I care about clean design, scalable systems, and solving real problems through thoughtful tech.
+Hi, I'm **Sayooj VP**, an engineer simplifying event management through technology.
 
 ---
 
@@ -23,6 +21,9 @@ I’m driven by the idea of combining tech and business to build solutions that 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=black" alt="Neon" />
   <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
   
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -46,11 +47,11 @@ I’m driven by the idea of combining tech and business to build solutions that 
 
 ---
 
-### What I'm Working On
+### What I'm exploring
 
-- Building expertise in **software development** and **full stack technologies**
-- Developing skills to excel as a **Full Stack Developer**
-- Bridging the gap between **business and tech** through hands-on, innovative projects
+- Backend Development
+- Artificial Intelligence
+- Event Management workflows
 
 ---
 
